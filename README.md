@@ -1,2 +1,2 @@
 ### Junior_vision
-#Basics in computer vision and image processing
+Basics in computer vision and image processing
